@@ -1,0 +1,11 @@
+name: SpawnV2
+version: '1.0-SNAPSHOT'
+main: iiDanto.spawnV2.SpawnV2
+api-version: '1.20'
+commands:
+  setspawn:
+    description: Sets the SpawnV2 Spawn location.
+    usage: /<command>
+  spawn:
+    description: teleports you to spawn
+    usage: /<command>
